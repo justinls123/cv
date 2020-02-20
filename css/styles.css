@@ -1,0 +1,19 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 80%;
+}
+
+img {
+  height: 120px;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
